@@ -1,0 +1,10 @@
+.btn-supp{
+    background-color: red;
+    padding: 10px 15px;
+    margin-bottom: 50px;
+    width: 200px;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}

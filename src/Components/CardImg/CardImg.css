@@ -1,0 +1,19 @@
+.cardImg{
+    margin-top: 50px;
+    width : 50%;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 1px solid navy;
+
+}
+.cardImg h3{
+    text-align: center;
+    padding: 10px;
+}
+
+.cardImg img{
+    padding: 10px;
+}

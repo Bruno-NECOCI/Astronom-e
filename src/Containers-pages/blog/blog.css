@@ -1,0 +1,16 @@
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.container-cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto 0;
+}
+
+

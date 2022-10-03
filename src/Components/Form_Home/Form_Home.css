@@ -1,0 +1,24 @@
+.form-date{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin: 100px 0 40px;
+}
+
+.form-date h1{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.form-date button{
+    background-color: navy;
+    color: white;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    border: none;
+}

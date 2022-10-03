@@ -1,0 +1,85 @@
+.article-content {
+    max-width: 700px;
+    min-width: 300px;
+    margin: 200px auto 50px auto;
+}
+.article-content h2 {
+    font-size: 45px;
+    margin: 20px;
+}
+.article-content p {
+    font-size: 25px;
+    margin: 50px;
+    text-align: justify;
+}
+
+.btn-content {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;  
+}
+
+.btn-update{
+    background-color: navy;
+    padding: 10px 15px;
+    margin-bottom: 50px;
+    width: 200px;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.formUpdate{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.formUpdate h1 {
+    margin-bottom: 50px;
+}
+
+.formUpdate label {
+    font-size: 20px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+
+.formUpdate input, .formUpdate textarea {
+    min-width: 75%;
+    padding: 10px;
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+
+.formUpdate textarea {
+    min-height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btnValid{
+    padding: 10px 15px;
+    width: 200px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.btnBack{
+    padding: 10px 15px;
+    width: 200px;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
